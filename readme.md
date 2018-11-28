@@ -20,6 +20,8 @@
 |0048|[旋转图像](https://leetcode-cn.com/problems/rotate-image) | c++ |[python](./src/0048/0048.py) |Medium|
 |0066|[加一](https://leetcode-cn.com/problems/plus-one) | c++ |[python](./src/0066/0066.py) |Easy|
 |0067|[二进制求和](https://leetcode-cn.com/problems/add-binary) | c++ |[python](./src/0067/0067.py) |Easy|
+|0069|[x 的平方根](https://leetcode-cn.com/problems/sqrtx) | c++ |[python](./src/0069/0069.py) |Easy|
+|0070|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | c++ |[python](./src/0070/0070.py) |Easy|
 |0088|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | c++ |[python](./src/0088/0088.py) |Easy|
 |0104|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | c++ |[python](./src/0104/0104.py) |Easy|
 |0122|[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | c++ |[python](./src/0122/0122.py) |Easy|
@@ -51,7 +53,10 @@
 |0507|[完美数](https://leetcode-cn.com/problems/perfect-number) | c++ |[python](./src/0507/0507.py) |Easy|
 |0665|[非递减数列](https://leetcode-cn.com/problems/non-decreasing-array) | c++ |[python](./src/0665/0665.py) |Easy|
 |0693|[交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits) | c++ |[python](./src/0693/0693.py) |Easy|
+|0717|[1 比特与 2 比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters) | c++ |[python](./src/0717/0717.py) |Easy|
 |0806|[写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string) | c++ |[python](./src/0806/0806.py) |Easy|
+|0811|[子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/) | c++ |[python](./src/0811/0811.py) |Easy|
 |0821|[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character) | c++ |[python](./src/0821/0821.py) |Easy|
 |0852|[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array) | c++ |[python](./src/0852/0852.py) |Easy|
+|0874|[模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation) | c++ |[python](./src/0874/0874.py) |Easy|
 |0876|[链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list) | c++ |[python](./src/0876/0876.py) |Easy|
