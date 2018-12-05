@@ -29,7 +29,9 @@
 |0136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number) | c++ |[python](./src/0136/0136.py) |Easy|
 |0141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | c++ |[python](./src/0141/0141.py) |Easy|
 |0155|[最小栈](https://leetcode-cn.com/problems/min-stack) | c++ |[python](./src/0155/0155.py) |Easy|
+|0171|[Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | c++ |[python](./src/0171/0171.py) |Easy|
 |0189|[旋转数组](https://leetcode-cn.com/problems/rotate-array) | c++ |[python](./src/0189/0189.py) |Easy|
+|0198|[打家劫舍](https://leetcode-cn.com/problems/house-robber/) | c++ |[python](./src/0198/0198.py) |Easy|
 |0204|[计数质数](https://leetcode-cn.com/problems/count-primes) | c++ |[python](./src/0204/0204.py) |Easy|
 |0206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | c++ |[python](./src/0206/0206.py) |Easy|
 |0215|[数组中的第 K 个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | c++ |[python](./src/0215/0215.py) |Medium|
@@ -46,17 +48,25 @@
 |0350|[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | c++ |[python](./src/0350/0350.py) |Easy|
 |0387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string) | c++ |[python](./src/0387/0387.py) |Easy|
 |0400|[第 N 个数字](https://leetcode-cn.com/problems/nth-digit) | c++ |[python](./src/0400/0400.py) |Easy|
+|0409|[最长回文串](https://leetcode-cn.com/problems/longest-palindrome/submissions/) | c++ |[python](?) |Easy|
 |0412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz) | c++ |[python](./src/0412/0412.py) |Easy|
 |0438|[找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) | c++ |[python](./src/0438/0438.py) |Easy|
 |0448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array) | c++ |[python](./src/0448/0448.py) |Easy|
+|0455|[分发饼干](https://leetcode-cn.com/problems/assign-cookies/) | c++ |[python](./src/0455/0455.py) |Easy|
 |0463|[岛屿的周长](https://leetcode-cn.com/problems/island-perimeter) | c++ |[python](./src/0463/0463.py) |Easy|
+|0496|[下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) | c++ |[python](./src/0496/0496.py) |Easy|
 |0507|[完美数](https://leetcode-cn.com/problems/perfect-number) | c++ |[python](./src/0507/0507.py) |Easy|
 |0665|[非递减数列](https://leetcode-cn.com/problems/non-decreasing-array) | c++ |[python](./src/0665/0665.py) |Easy|
 |0693|[交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits) | c++ |[python](./src/0693/0693.py) |Easy|
 |0717|[1 比特与 2 比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters) | c++ |[python](./src/0717/0717.py) |Easy|
+|0784|[字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/) | c++ |[python](./src/0784/0784.py) |Easy|
 |0806|[写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string) | c++ |[python](./src/0806/0806.py) |Easy|
 |0811|[子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/) | c++ |[python](./src/0811/0811.py) |Easy|
 |0821|[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character) | c++ |[python](./src/0821/0821.py) |Easy|
+|0844|[比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | c++ |[python](./src/0844/0844.py) |Easy|
 |0852|[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array) | c++ |[python](./src/0852/0852.py) |Easy|
+|0860|[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/) | c++ |[python](./src/0860/0860.py) |Easy|
 |0874|[模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation) | c++ |[python](./src/0874/0874.py) |Easy|
 |0876|[链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list) | c++ |[python](./src/0876/0876.py) |Easy|
+|0922|[按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | c++ |[python](./src/0922/0922.py) |Easy|
+|0944|[删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/) | c++ |[python](./src/0944/0944.py) |Easy|
